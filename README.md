@@ -7,7 +7,7 @@ Windows10
 Unreal Engine 5
 VR HMDs like Meta Quest Series, HTC VIVE Series or Stuff supporting OpenXR may work.
 
-###Recommended system
+### Recommended system
 Intel i7 gen 9th - 11th / Intel i9 gen 9th - 11th / AMD ryzen 7 / AMD ryzen 9
 +16 GB RAM memory
 NVIDIA RTX 3070 or Higher
