@@ -10,7 +10,7 @@ VR HMDs like Meta Quest Series, HTC VIVE Series or Stuff supporting OpenXR may w
 ### Recommended system
 Intel i7 gen 9th - 11th / Intel i9 gen 9th - 11th / AMD ryzen 7 / AMD ryzen 9  
 +16 GB RAM memory  
-NVIDIA RTX 3070 or Higher  
+NVIDIA RTX 3080 or Higher  
 Unreal Engine 5.0  
 Meta Quest Pro / Meta Quest 2  
 
