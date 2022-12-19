@@ -4,12 +4,6 @@ or Youtube Link
 https://youtu.be/P2Z_hxJBv-k  
 (Japanese日本語)
 
-
-
-# UE5_VR_PointClouds_denoising
-
-(If You wanna try it in Unreal Engine 4.27, crick here)
-
 ## prerequisite
 Windows10  
 Unreal Engine 5  
