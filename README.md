@@ -1,8 +1,8 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P2Z_hxJBv-k/0.jpg)](https://www.youtube.com/watch?v=P2Z_hxJBv-k)  
 ↑ Click image to watch Youtube instruction  
 or Youtube Link
-https://youtu.be/P2Z_hxJBv-k
-
+https://youtu.be/P2Z_hxJBv-k  
+(Japanese日本語)
 
 
 
