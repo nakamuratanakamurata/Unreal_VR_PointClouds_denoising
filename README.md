@@ -1,9 +1,11 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P2Z_hxJBv-k/0.jpg)](https://www.youtube.com/watch?v=P2Z_hxJBv-k)  
+[![IMAGE ALT TEXT HERE](https://youtu.be/eRrKFU3xS5U/0.jpg)](https://youtu.be/eRrKFU3xS5U)  
 ↑ Click image to watch Youtube instruction  
-or Youtube Link
-https://youtu.be/P2Z_hxJBv-k  
-(Japanese日本語)
+or or from link below
+https://youtu.be/eRrKFU3xS5U
 
+日本語での動画(https://youtu.be/eRrKFU3xS5U)
+
+日本語での記事↓　(Japanese document ↓)
 https://qiita.com/nakamurata/items/b27d5b15e92f685e43a9
 
 ## あとでちゃんと書く
