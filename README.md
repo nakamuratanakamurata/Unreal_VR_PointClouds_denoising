@@ -3,9 +3,9 @@
 or or from link below
 https://youtu.be/eRrKFU3xS5U
 
-日本語での動画(https://youtu.be/eRrKFU3xS5U)
+日本語での動画(https://youtu.be/BieNlr3j0O8)
 
-日本語での記事↓　(Japanese document ↓)
+日本語でのQiita記事↓　(Japanese document ↓)
 https://qiita.com/nakamurata/items/b27d5b15e92f685e43a9
 
 ## あとでちゃんと書く
@@ -22,6 +22,7 @@ NVIDIA RTX 3080 or Higher
 Unreal Engine 5.0  
 Meta Quest Pro / Meta Quest 2  
 
+## commentary
 I know you all think this.
 Noise removal in point clouds is hard.
 
@@ -34,3 +35,5 @@ Poor perceptibility makes it time consuming and difficult to have confidence in 
 
 This project is for that kind of people.
 
+Please refer to the youtube video for operating instructions.
+https://youtu.be/eRrKFU3xS5U
