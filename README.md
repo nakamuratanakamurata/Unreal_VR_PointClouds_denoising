@@ -1,7 +1,8 @@
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=eRrKFU3xS5U&list=PLbERwAlS2upFadXsjT_pxloMWNOHzQjev&index=2&t=17s))
-↑ Click image to watch Youtube instruction  
-or or from link below
-https://youtu.be/eRrKFU3xS5U
+
+# Youtube instruction
+English : https://youtu.be/eRrKFU3xS5U
+日本語 : https://youtu.be/BieNlr3j0O8
+
 
 日本語での動画(https://youtu.be/BieNlr3j0O8)
 
