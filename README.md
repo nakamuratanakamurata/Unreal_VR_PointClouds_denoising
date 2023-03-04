@@ -1,7 +1,7 @@
 
-# Youtube instruction
-English : https://youtu.be/eRrKFU3xS5U
-日本語 : https://youtu.be/BieNlr3j0O8
+## Youtube instruction
+* English : https://youtu.be/eRrKFU3xS5U
+* 日本語 : https://youtu.be/BieNlr3j0O8
 
 日本語でのQiita記事↓　(Japanese document ↓)
 https://qiita.com/nakamurata/items/b27d5b15e92f685e43a9
