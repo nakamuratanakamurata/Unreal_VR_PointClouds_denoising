@@ -33,13 +33,29 @@ Poor perceptibility makes it time consuming and difficult to have confidence in 
 
 This project is for that kind of people.
 
-Please refer to the youtube video for operating instructions.
-https://youtu.be/eRrKFU3xS5U
-
 
 # Manuals
 
-### Input (Quest2)
+Please refer to the youtube video for operating instructions.
+https://youtu.be/eRrKFU3xS5U
+
+The main explanation of the operation is given in the Youtube video above.
+Stand-alone VR is not intended.
+You must connect the VRHMD to your PC, which is called PCVR.
+
+If you are using Meta Quest series, use Oculus link / Air link to connect to PC.
+
+### Import Point Clouds
+Import point clouds files into Content Drawer
+![image](https://user-images.githubusercontent.com/57085424/222885851-fc90168a-7dd0-4e99-8207-1f3681214124.png)
+Drag and drop point clouds to level to display point clouds
+
+### Play & Edit
+Play in VR Preview mode
+![image](https://user-images.githubusercontent.com/57085424/222885817-12731bbe-362e-4cfd-8b7b-395b94b7edf7.png)
+
+
+### UserInput (Quest2)
 ![image](https://user-images.githubusercontent.com/57085424/222885209-bec6b589-0727-44db-9f93-98d988232c13.png)
 | Input | action |
 |---|---|
