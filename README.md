@@ -37,6 +37,14 @@ Please refer to the youtube video for operating instructions.
 https://youtu.be/eRrKFU3xS5U
 
 
+Manuals
+
+### Export
+Right-click on the edited point cloud file (.uasset) and select Asset Action → Export
+![image](https://user-images.githubusercontent.com/57085424/222884999-60af7f16-6e50-4573-8eb5-c3a18559e6bf.png)
+
+
+
 
 Appendix
 If the low FPS is caused by insufficient computer power, try setting the "MAX Bucket Size" to a smaller value.
