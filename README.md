@@ -44,7 +44,12 @@ https://youtu.be/eRrKFU3xS5U
 | Input | action |
 |---|---|
 | HandTrigger | Show/Hide Sphere |
-|HandTrigger & IndexTrigger	| [ ] OK<br> [ ] NG|
+| HandTrigger & IndexTrigger	| Delete Points in Sphere |
+| Left Thumbstick | Forward/backward, left/right movement |
+| Right Thumbstick | Vertical translation, Yaw rotation |
+| HandTrigger & Thumbsticks	| Slowly moving, rotating |
+| Left X,Y, Right A,B | Resize Sphere |
+
 Overlay Sphere and point cloud, delete point cloud with HandTrigger & IndexTrigger
 
 ### Export
