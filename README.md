@@ -8,8 +8,6 @@ https://youtu.be/eRrKFU3xS5U
 日本語でのQiita記事↓　(Japanese document ↓)
 https://qiita.com/nakamurata/items/b27d5b15e92f685e43a9
 
-## あとでちゃんと書く
-
 ## prerequisite
 Windows10  
 Unreal Engine 5  
