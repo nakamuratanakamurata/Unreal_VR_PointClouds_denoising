@@ -37,7 +37,15 @@ Please refer to the youtube video for operating instructions.
 https://youtu.be/eRrKFU3xS5U
 
 
-Manuals
+# Manuals
+
+### Input (Quest2)
+![image](https://user-images.githubusercontent.com/57085424/222885209-bec6b589-0727-44db-9f93-98d988232c13.png)
+| Input | action |
+|---|---|
+| HandTrigger | Show/Hide Sphere |
+|HandTrigger & IndexTrigger	| [ ] OK<br> [ ] NG|
+Overlay Sphere and point cloud, delete point cloud with HandTrigger & IndexTrigger
 
 ### Export
 Right-click on the edited point cloud file (.uasset) and select Asset Action → Export
@@ -46,7 +54,7 @@ Right-click on the edited point cloud file (.uasset) and select Asset Action →
 
 
 
-Appendix
+## Appendix
 If the low FPS is caused by insufficient computer power, try setting the "MAX Bucket Size" to a smaller value.
 ![image](https://user-images.githubusercontent.com/57085424/219933468-c61dd4b7-948a-4b96-b61f-90fe2151c420.png)
 
