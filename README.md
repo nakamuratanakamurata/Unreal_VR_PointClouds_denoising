@@ -8,8 +8,8 @@ https://qiita.com/nakamurata/items/b27d5b15e92f685e43a9
 
 ### prerequisite
 Either on Linux or Windows, not tested on mac
-Unreal Engine 5 
-VR HMDs like Meta Quest Series, HTC VIVE Series or Stuff supporting OpenXR may work.  
+Unreal Engine 5
+VR HMDs like Meta Quest Series, HTC VIVE Series or Stuff supporting OpenXR may work
 
 ### Recommended system
 Intel i7 gen 9th - 11th / Intel i9 gen 9th - 11th / AMD ryzen 7 / AMD ryzen 9  
