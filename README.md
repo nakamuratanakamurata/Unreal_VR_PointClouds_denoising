@@ -18,7 +18,7 @@ NVIDIA RTX 3080 or Higher
 Unreal Engine 5.0  
 Meta Quest Pro / Meta Quest 2  
 
-# Manuals
+# How to run this project
 
 Please refer to the youtube video for operating instructions.
 https://youtu.be/eRrKFU3xS5U
